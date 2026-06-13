@@ -5,11 +5,11 @@
 	"name": "Craftable Legacy Recipes",
 	"description": "Adds craftable legacy and quality-of-life recipes to Minecraft 1.18.2, including saddle, updated lead recipe, enchanted golden apple, horse armor, and chainmail armor.",
 	"authors": [
-		"Stephen2754"
+		"Stephen Young"
 	],
 	"contact": {
-		"homepage": "https://github.com/Stephen2754/craftable-legacy-recipes/",
-		"sources": "https://github.com/Stephen2754/craftable-legacy-recipes"
+		"homepage": "https://github.com/Stephen2754/craftable-legacy-recipes",
+		"sources": "https://github.com/Stephen2754/craftable-legacy-recipes/releases/tag/alpha"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/craftable-legacy-recipes/icon.png",
